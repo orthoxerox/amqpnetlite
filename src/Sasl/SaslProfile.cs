@@ -31,6 +31,7 @@ namespace Amqp.Sasl
         internal const string ExternalName = "EXTERNAL";
         internal const string AnonymousName = "ANONYMOUS";
         internal const string PlainName = "PLAIN";
+        internal const string CramMD5Name = "CRAM-MD5";
 
         /// <summary>
         /// Initializes a SaslProfile object.

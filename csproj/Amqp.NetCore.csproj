@@ -216,6 +216,9 @@
     <Compile Include="..\src\Sasl\SaslExternalProfile.cs">
       <Link>Sasl\SaslExternalProfile.cs</Link>
     </Compile>
+    <Compile Include="..\src\Sasl\SaslCramMD5Profile.cs">
+      <Link>Sasl\SaslCramMD5Profile.cs</Link>
+    </Compile>
     <Compile Include="..\src\Sasl\SaslInit.cs">
       <Link>Sasl\SaslInit.cs</Link>
     </Compile>
